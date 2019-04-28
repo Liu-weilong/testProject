@@ -1,0 +1,19 @@
+platformName: Android
+#platforVersion: 7.1.2
+#deviceName: 127.0.0.1:62028
+app: D:\360Downloads\51zxw_1.6.6.apk
+appPackage: com.fzisen.app51zxw
+appActivity: com.fzisen.app51zxw.android.activity.LanchurActivity
+noReset: False
+ip: 127.0.0.1
+port: 4723
+unicodeKeyboard: True
+resetKeyboard: True
+
+deviceName: HUAWEI
+platforVersion: 9
+udid: LKX0217C03001636
+
+#desired_caps['deviceName'] = 'HUAWEI'
+# desired_caps['platforVersion'] = '9'
+# desired_caps['udid'] = 'LKX0217C03001636'
